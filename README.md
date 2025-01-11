@@ -7,7 +7,7 @@ The owner of Aarav Store wants our assistance in developing a dashboard to track
 ## Dashboard
 ![Dashboard Image](https://github.com/user-attachments/assets/f229d1e3-0525-40bc-bb4a-fe106bbf1c35)
 
-### Project Learnings:
+## Project Learnings:
 - **Created an Interactive Dashboard:** The dashboard was designed to effectively track and analyze online sales data, allowing for real-time insights.
 - **Used Complex Parameters for Data Drill-Down:** Implemented advanced techniques to enable users to drill down into specific data points, providing deeper insights into sales trends.
 - **Customizations with Filters and Slicers:** Incorporated filters and slicers, enabling users to interact with the dashboard and customize their views according to various parameters (e.g., regions, time periods, product categories).
